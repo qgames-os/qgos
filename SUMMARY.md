@@ -1,18 +1,18 @@
 # Table of contents
 
-## 🚩 Terms and Policies
+## 🚩 Terms & Policies
 
-* [📜 Rules](README.md)
-* [📃 Terms and Conditions](terms-and-policies/terms-and-conditions.md)
+* [📜 Operation policy](README.md)
+* [📃 Terms of Use](terms-and-policies/terms-of-use.md)
 
 ## 🕹 Game Information
 
-* [🗄 Game Database](game-information/game-database/README.md)
-  * [😎 About occupational](game-information/game-database/about-occupational.md)
-  * [🎇 About Skill](game-information/game-database/about-skill.md)
-  * [🦰 About Item](game-information/game-database/about-item.md)
-  * [🃏 About Card](game-information/game-database/about-card.md)
-  * [👾 About Monsters](game-information/game-database/about-monsters.md)
-* [📓 game guide](game-information/game-guide/README.md)
-  * [\[guide\] 1.](game-information/game-guide/guide-1..md)
-  * [\[guide\] 2.](game-information/game-guide/guide-2..md)
+* [🗄 Game Database](undefined-1/db/README.md)
+  * [😎 About occupational](undefined-1/db/undefined.md)
+  * [🎇 About Skill](undefined-1/db/undefined-1.md)
+  * [🦰 About Item](undefined-1/db/undefined-2.md)
+  * [🃏 About Card](undefined-1/db/undefined-3.md)
+  * [👾 About Monsters](undefined-1/db/undefined-4.md)
+* [📓 game guide](undefined-1/undefined/README.md)
+  * [\[guide\] 1.](undefined-1/undefined/1..md)
+  * [\[guide\] 2.](undefined-1/undefined/2..md)
