@@ -1,18 +1,18 @@
 # Table of contents
 
-## 🚩 약관 및 정책
+## 🚩 Terms and Policies
 
-* [📜 운영정책](README.md)
-* [📃 이용약관](undefined/undefined-1.md)
+* [📜 Rules](README.md)
+* [📃 Terms and Conditions](terms-and-policies/terms-and-conditions.md)
 
-## 🕹 게임 정보
+## 🕹 Game Information
 
-* [🗄 게임 DB](undefined-1/db/README.md)
-  * [😎 직업 정보](undefined-1/db/undefined.md)
-  * [🎇 스킬 정보](undefined-1/db/undefined-1.md)
-  * [🦰 아이템 정보](undefined-1/db/undefined-2.md)
-  * [🃏 카드 정보](undefined-1/db/undefined-3.md)
-  * [👾 몬스터 정보](undefined-1/db/undefined-4.md)
-* [📓 게임 가이드](undefined-1/undefined/README.md)
-  * [\[가이드\] 1.](undefined-1/undefined/1..md)
-  * [\[가이드\] 2.](undefined-1/undefined/2..md)
+* [🗄 Game Database](game-information/game-database/README.md)
+  * [😎 About occupational](game-information/game-database/about-occupational.md)
+  * [🎇 About Skill](game-information/game-database/about-skill.md)
+  * [🦰 About Item](game-information/game-database/about-item.md)
+  * [🃏 About Card](game-information/game-database/about-card.md)
+  * [👾 About Monsters](game-information/game-database/about-monsters.md)
+* [📓 game guide](game-information/game-guide/README.md)
+  * [\[guide\] 1.](game-information/game-guide/guide-1..md)
+  * [\[guide\] 2.](game-information/game-guide/guide-2..md)
