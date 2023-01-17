@@ -14,5 +14,5 @@
   * [🃏 About Card](undefined-1/db/undefined-3.md)
   * [👾 About Monsters](undefined-1/db/undefined-4.md)
 * [📓 Game Guide](undefined-1/undefined/README.md)
-  * [\[Guide\] 1.](undefined-1/undefined/1..md)
+  * [\[Guide\] 1. 신규 시스템 가이드](undefined-1/undefined/1..md)
   * [\[Guide\] 2.](undefined-1/undefined/2..md)
