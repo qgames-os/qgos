@@ -16,3 +16,4 @@
   * [👾 About Monsters](undefined-1/db/undefined-4.md)
 * [📓 Game Guide](undefined-1/undefined/README.md)
   * [\[상급자 가이드\] 21. 코어 강화 장치](undefined-1/undefined/1..md)
+  * [\[가이드\] 37. 스페셜 이벤트 - 포링 눈사람 만들기 (Update 21.12.21)](game-information/game-guide/37.-update-21.12.21.md)
