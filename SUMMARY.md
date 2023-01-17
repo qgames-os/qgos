@@ -11,7 +11,7 @@
   * [😎 About occupational](undefined-1/db/undefined.md)
   * [🎇 About Skill](game-information/game-database/about-skill/README.md)
     * [\[궁수계열\]](game-information/game-database/about-skill/undefined.md)
-    * [\[복사계열\] 바드](game-information/game-database/about-skill/undefined-1.md)
+    * [\[복사계열\] 바드](<game-information/game-database/about-skill/undefined (1).md>)
   * [🦰 About Item](undefined-1/db/undefined-2.md)
   * [🃏 About Card](undefined-1/db/undefined-3.md)
   * [👾 About Monsters](undefined-1/db/undefined-4.md)
