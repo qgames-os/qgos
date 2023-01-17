@@ -1,53 +1,7 @@
-# \[궁수계열]
+# \[복사계열] 바드
 
-<figure><img src="../../../.gitbook/assets/1 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/캡처.PNG" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/2 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/캡처2.PNG" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/3 (1).PNG" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/4.PNG" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/5 (1).PNG" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/6 (1).PNG" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/7.PNG" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/8.PNG" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/9.PNG" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/10.PNG" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/11.PNG" alt=""><figcaption></figcaption></figure>
-
-<div>
-
-<figure><img src="../../../.gitbook/assets/1.PNG" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/2.PNG" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/3.PNG" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/4 (1).PNG" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/5.PNG" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/6.PNG" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/7 (1).PNG" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../../.gitbook/assets/캡처3.PNG" alt=""><figcaption></figcaption></figure>
