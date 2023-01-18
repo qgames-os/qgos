@@ -1,10 +1,10 @@
-# \[궁수계열]
+# 궁수계열
 
 <figure><img src="../../../.gitbook/assets/2 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/3.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3 (2).PNG" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/4 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4 (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/5.PNG" alt=""><figcaption></figcaption></figure>
 
@@ -22,11 +22,11 @@
 
 <figure><img src="../../../.gitbook/assets/1 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/2.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/3 (1).PNG" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/4.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/5 (1).PNG" alt=""><figcaption></figcaption></figure>
 
