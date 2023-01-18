@@ -1,4 +1,4 @@
-# 🥾 신발 장착 카드
+# 🥾 신발
 
 <mark style="color:green;">**■ 초록색 카드**</mark>
 
@@ -14,4 +14,4 @@
 
 <mark style="color:yellow;">**■ 황금색 카드**</mark>
 
-<figure><img src="../../../.gitbook/assets/4.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4 (2).PNG" alt=""><figcaption></figcaption></figure>
