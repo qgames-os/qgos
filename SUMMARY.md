@@ -13,7 +13,7 @@
     * [궁수계열](<game-information/game-database/about-skill/undefined (1).md>)
   * [🦰 About Item](undefined-1/db/undefined-2.md)
   * [🃏 About Card](game-information/game-database/about-card/README.md)
-    * [🥾 신발 장착 카드](game-information/game-database/about-card/undefined.md)
+    * [🥾 신발](game-information/game-database/about-card/undefined.md)
   * [👾 About Monsters](undefined-1/db/undefined-4.md)
 * [📓 Game Guide](undefined-1/undefined/README.md)
   * [\[상급자 가이드\] 21. 코어 강화 장치](undefined-1/undefined/1..md)
