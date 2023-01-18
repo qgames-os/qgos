@@ -10,7 +10,7 @@
 * [🗄 Game Database](undefined-1/db/README.md)
   * [😎 About occupational](undefined-1/db/undefined.md)
   * [🎇 About Skill](game-information/game-database/about-skill/README.md)
-    * [궁수계열](<game-information/game-database/about-skill/undefined (1).md>)
+    * [🏹 궁수계열](<game-information/game-database/about-skill/undefined (1).md>)
   * [🦰 About Item](undefined-1/db/undefined-2.md)
   * [🃏 About Card](game-information/game-database/about-card/README.md)
     * [🥾 신발](game-information/game-database/about-card/undefined.md)
