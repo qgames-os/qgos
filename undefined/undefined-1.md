@@ -1,6 +1,6 @@
 # 📃 Terms of Use
 
-## Welcome to HoYoverse's official Discord for Genshin Impact!
+## Welcome to Discord for Us!
 
 We look forward to seeing you become a regular here! However, please ensure that you are familiar with our Server Guidelines! Your entrance into our server confirms you accept the following rules as well as agree to Genshin Impact's Terms of Service.\
 
