@@ -5,6 +5,12 @@
 * [📜 Operation policy](README.md)
 * [📃 Terms of Use](undefined/undefined-1.md)
 
+## 📌 NEWS
+
+* [⚒ Updates & Patches](news/updates-and-patches/README.md)
+  * [patch note](news/updates-and-patches/patch-note.md)
+* [📖 Forum](news/forum.md)
+
 ## 🕹 Game Information
 
 * [🗄 Game Database](undefined-1/db/README.md)
