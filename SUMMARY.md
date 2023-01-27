@@ -8,8 +8,7 @@
 ## 📌 NEWS
 
 * [⚒ Updates & Patches](news/updates-and-patches/README.md)
-  * [patch note](news/updates-and-patches/patch-note.md)
-* [📖 Forum](news/forum.md)
+  * [1.3 patch note](news/updates-and-patches/1.3-patch-note.md)
 
 ## 🕹 Game Information
 
