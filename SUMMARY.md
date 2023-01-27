@@ -1,9 +1,6 @@
 # Table of contents
 
-## 🚩 Terms & Policies
-
-* [📜 Operation policy](README.md)
-* [📃 Terms of Use](undefined/undefined-1.md)
+* [🕹 About {game}](README.md)
 
 ## 📌 NEWS
 
@@ -24,3 +21,14 @@
 * [📓 Game System Guide](game-information/game-system-guide/README.md)
   * [\[상급자 가이드\] 21. 코어 강화 장치](game-information/game-system-guide/21..md)
   * [\[가이드\] 37. 스페셜 이벤트 - 포링 눈사람 만들기 (Update 21.12.21)](game-information/game-system-guide/37.-update-21.12.21.md)
+* [❓ FAQs](game-information/faqs.md)
+
+***
+
+* [🙋♀ Community](community/README.md)
+  * [▶ Links](community/links.md)
+
+## 🚩 Terms & Policies
+
+* [📜 Operation policy](<README (1).md>)
+* [📃 Terms of Use](undefined/undefined-1.md)
