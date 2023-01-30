@@ -23,6 +23,11 @@
   * [\[가이드\] 37. 스페셜 이벤트 - 포링 눈사람 만들기 (Update 21.12.21)](game-information/game-system-guide/37.-update-21.12.21.md)
 * [❓ FAQs](game-information/faqs.md)
 
+***
+
+* [🙋♀ Community](community/README.md)
+  * [▶ Links](community/links.md)
+
 ## 🚩 Terms & Policies
 
 * [📜 Operation policy](<README (1).md>)
