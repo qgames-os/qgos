@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🕹 About {game}](README.md)
+* [🕹 About {company}](README.md)
 
 ## 📌 NEWS
 
