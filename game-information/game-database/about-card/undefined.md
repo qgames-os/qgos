@@ -2,16 +2,32 @@
 
 <mark style="color:green;">**■ 초록색 카드**</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/1 (2).PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <mark style="color:blue;">**■ 파란색 카드**</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/2.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <mark style="color:purple;">**■ 보라색 카드**</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/3.PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <mark style="color:yellow;">**■ 황금색 카드**</mark>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/4 (2).PNG" alt=""><figcaption></figcaption></figure>
+
+</div>
